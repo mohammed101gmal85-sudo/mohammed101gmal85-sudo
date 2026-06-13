@@ -64,9 +64,4 @@
 </div>
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mohammed101gmal85-sudo/mohammed101gmal85-sudo/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/mohammed101gmal85-sudo/mohammed101gmal85-sudo/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
 ###
