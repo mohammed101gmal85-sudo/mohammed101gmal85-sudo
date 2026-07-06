@@ -60,3 +60,129 @@ I enjoy writing clean code, solving real-world problems and continuously learnin
 
 
 <hr>
+
+<!--==================== TECH STACK ====================-->
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<br>
+
+<h3 align="center">👨‍💻 Programming Languages</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,cpp,java,python"/>
+
+</div>
+
+<br>
+
+<h3 align="center">🚀 Backend Development</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=dotnet"/>
+
+<img src="https://skillicons.dev/icons?i=visualstudio"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</div>
+
+<p align="center">
+
+ASP.NET Core • ASP.NET MVC • REST API • Entity Framework Core • LINQ • SQL Server • SignalR
+
+</p>
+
+<br>
+
+<h3 align="center">🏛 Software Architecture</h3>
+
+<p align="center">
+
+Clean Architecture • SOLID Principles • Design Patterns • Repository Pattern • Dependency Injection
+
+</p>
+
+<br>
+
+<h3 align="center">🔐 Authentication & Security</h3>
+
+<p align="center">
+
+JWT Authentication • Authorization • Refresh Token
+
+</p>
+
+<br>
+
+<h3 align="center">⚡ Performance & Optimization</h3>
+
+<p align="center">
+
+Pagination • Filtering • Search • Response Wrapper • Logging • Monitoring • Upload Image • Redis Caching
+
+</p>
+
+<br>
+
+<h3 align="center">🗄 Database</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,redis"/>
+
+</div>
+
+<p align="center">
+
+SQL Server • Entity Framework Core • LINQ • Redis
+
+</p>
+
+<br>
+
+<h3 align="center">☁ Cloud & DevOps</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=azure,docker"/>
+
+</div>
+
+<p align="center">
+
+Microsoft Azure • Docker
+
+</p>
+
+<br>
+
+<h3 align="center">🧪 Libraries & Testing</h3>
+
+<p align="center">
+
+AutoMapper • Unit Testing
+
+</p>
+
+<br>
+
+<h3 align="center">🛠 Tools</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman"/>
+
+</div>
+
+<p align="center">
+
+Git • GitHub • Visual Studio • VS Code • Postman • Swagger
+
+</p>
+
+<hr>
