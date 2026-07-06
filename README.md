@@ -168,3 +168,363 @@ I'm passionate about creating RESTful APIs, designing clean architectures, optim
 </div>
 
 <hr>
+
+<!-- ================================================= -->
+<!--                 TECH STACK                         -->
+<!-- ================================================= -->
+
+<h1 align="center">💻 Tech Stack</h1>
+
+<hr>
+
+<h2>👨‍💻 Programming Language</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cs" />
+
+</p>
+
+<p align="center">
+
+<b>C# • OOP • Advanced C#</b>
+
+</p>
+
+<hr>
+
+<h2>🌐 Backend Development</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=dotnet" />
+<img src="https://skillicons.dev/icons?i=visualstudio" />
+
+</p>
+
+<p align="center">
+
+<b>
+
+ASP.NET Core<br>
+
+ASP.NET MVC<br>
+
+RESTful API<br>
+
+SignalR
+
+</b>
+
+</p>
+
+<hr>
+
+<h2>🗄 Database</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=redis" />
+
+</p>
+
+<p align="center">
+
+<b>
+
+SQL Server<br>
+
+Entity Framework Core<br>
+
+LINQ<br>
+
+Redis
+
+</b>
+
+</p>
+
+<hr>
+
+<h2>🏗 Software Architecture</h2>
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td>✔ Clean Architecture</td>
+
+<td>✔ SOLID Principles</td>
+
+</tr>
+
+<tr>
+
+<td>✔ Design Patterns</td>
+
+<td>✔ Layered Architecture</td>
+
+</tr>
+
+<tr>
+
+<td>✔ Repository Pattern</td>
+
+<td>✔ Dependency Injection</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<hr>
+
+<h2>🔐 Authentication & Security</h2>
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td>✔ JWT Authentication</td>
+
+<td>✔ Authorization</td>
+
+</tr>
+
+<tr>
+
+<td>✔ Refresh Token</td>
+
+<td>✔ Role Based Authorization</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<hr>
+
+<h2>📚 Libraries</h2>
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td>✔ AutoMapper</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<hr>
+
+<h2>🧪 Testing</h2>
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td>✔ Unit Testing</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<hr>
+
+<h2>⚡ Performance & Optimization</h2>
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td>✔ Pagination</td>
+
+<td>✔ Filtering</td>
+
+</tr>
+
+<tr>
+
+<td>✔ Search</td>
+
+<td>✔ Response Wrapper</td>
+
+</tr>
+
+<tr>
+
+<td>✔ Logging</td>
+
+<td>✔ Monitoring</td>
+
+</tr>
+
+<tr>
+
+<td>✔ Upload Image</td>
+
+<td>✔ Caching</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<hr>
+
+<h2>☁ Cloud</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=azure" />
+
+</p>
+
+<p align="center">
+
+<b>Microsoft Azure</b>
+
+</p>
+
+<hr>
+
+<h2>🐳 DevOps</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker" />
+
+</p>
+
+<p align="center">
+
+<b>Docker</b>
+
+</p>
+
+<hr>
+
+<h2>🛠 Tools</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=visualstudio" />
+<img src="https://skillicons.dev/icons?i=postman" />
+
+</p>
+
+<p align="center">
+
+<b>
+
+Git • GitHub • Visual Studio • VS Code • Postman • Swagger
+
+</b>
+
+</p>
+
+<hr>
+
+<h2 align="center">🚀 Backend Development Skills</h2>
+
+<div align="center">
+
+<table>
+
+<tr>
+<td>✔ REST API Development</td>
+<td>✔ CRUD Operations</td>
+</tr>
+
+<tr>
+<td>✔ Authentication</td>
+<td>✔ Authorization</td>
+</tr>
+
+<tr>
+<td>✔ JWT</td>
+<td>✔ Refresh Token</td>
+</tr>
+
+<tr>
+<td>✔ SignalR</td>
+<td>✔ SQL Server</td>
+</tr>
+
+<tr>
+<td>✔ Entity Framework Core</td>
+<td>✔ LINQ</td>
+</tr>
+
+<tr>
+<td>✔ Repository Pattern</td>
+<td>✔ Dependency Injection</td>
+</tr>
+
+<tr>
+<td>✔ AutoMapper</td>
+<td>✔ Clean Architecture</td>
+</tr>
+
+<tr>
+<td>✔ SOLID Principles</td>
+<td>✔ Design Patterns</td>
+</tr>
+
+<tr>
+<td>✔ Pagination</td>
+<td>✔ Filtering</td>
+</tr>
+
+<tr>
+<td>✔ Search</td>
+<td>✔ Response Wrapper</td>
+</tr>
+
+<tr>
+<td>✔ Logging</td>
+<td>✔ Monitoring</td>
+</tr>
+
+<tr>
+<td>✔ Image Upload</td>
+<td>✔ Redis Cache</td>
+</tr>
+
+<tr>
+<td>✔ Azure Cloud</td>
+<td>✔ Docker Containers</td>
+</tr>
+
+<tr>
+<td>✔ Unit Testing</td>
+<td>✔ Performance Optimization</td>
+</tr>
+
+</table>
+
+</div>
+
+<hr>
