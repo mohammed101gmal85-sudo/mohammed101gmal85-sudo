@@ -528,3 +528,159 @@ Git • GitHub • Visual Studio • VS Code • Postman • Swagger
 </div>
 
 <hr>
+
+<!-- ================================================= -->
+<!--              GITHUB ANALYTICS                      -->
+<!-- ================================================= -->
+
+<h1 align="center">📊 GitHub Analytics</h1>
+
+<br>
+
+<div align="center">
+
+<img
+height="180"
+src="https://github-readme-stats.vercel.app/api?username=mohammed101gmal85-sudo&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github"
+/>
+
+<img
+height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed101gmal85-sudo&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"
+/>
+
+</div>
+
+<br><br>
+
+<!-- ================================================= -->
+<!--                GITHUB STREAK                       -->
+<!-- ================================================= -->
+
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=mohammed101gmal85-sudo&theme=tokyonight&hide_border=true&border_radius=15"
+/>
+
+</div>
+
+<br><br>
+
+<!-- ================================================= -->
+<!--              CONTRIBUTION GRAPH                    -->
+<!-- ================================================= -->
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=mohammed101gmal85-sudo&theme=tokyo-night&hide_border=true"
+/>
+
+</div>
+
+<br><br>
+
+<!-- ================================================= -->
+<!--                 GITHUB TROPHIES                    -->
+<!-- ================================================= -->
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<div align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=mohammed101gmal85-sudo&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4"
+/>
+
+</div>
+
+<br><br>
+
+<!-- ================================================= -->
+<!--               GITHUB ACHIEVEMENTS                  -->
+<!-- ================================================= -->
+
+<h2 align="center">⭐ GitHub Highlights</h2>
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center">🚀 Passionate Backend Developer</td>
+
+<td align="center">⚡ Clean Code Enthusiast</td>
+
+</tr>
+
+<tr>
+
+<td align="center">🏗 Clean Architecture</td>
+
+<td align="center">🔐 Secure API Development</td>
+
+</tr>
+
+<tr>
+
+<td align="center">☁ Azure Learner</td>
+
+<td align="center">🐳 Docker Enthusiast</td>
+
+</tr>
+
+<tr>
+
+<td align="center">📚 Continuous Learner</td>
+
+<td align="center">💡 Problem Solver</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<br><br>
+
+<!-- ================================================= -->
+<!--                  CODING PROFILE                    -->
+<!-- ================================================= -->
+
+<h2 align="center">💻 Coding Philosophy</h2>
+
+<div align="center">
+
+<table>
+
+<tr>
+<td>✔ Write Clean Code</td>
+<td>✔ Keep Learning</td>
+</tr>
+
+<tr>
+<td>✔ Follow SOLID Principles</td>
+<td>✔ Build Scalable APIs</td>
+</tr>
+
+<tr>
+<td>✔ Focus on Performance</td>
+<td>✔ Security First</td>
+</tr>
+
+<tr>
+<td>✔ Continuous Improvement</td>
+<td>✔ Team Collaboration</td>
+</tr>
+
+</table>
+
+</div>
+
+<hr>
