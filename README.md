@@ -60,7 +60,6 @@ I enjoy writing clean code, solving real-world problems and continuously learnin
 
 
 <hr>
-
 <!--==================== TECH STACK ====================-->
 
 <h2 align="center">💻 Tech Stack</h2>
@@ -71,7 +70,13 @@ I enjoy writing clean code, solving real-world problems and continuously learnin
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,cpp,java,python"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
 
@@ -81,51 +86,21 @@ I enjoy writing clean code, solving real-world problems and continuously learnin
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=dotnet"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=visualstudio"/>
+<img src="https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://img.shields.io/badge/Web_API-009688?style=for-the-badge"/>
 
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Entity_Framework_Core-68217A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LINQ-006699?style=for-the-badge"/>
 
 </div>
-
-<p align="center">
-
-ASP.NET Core • ASP.NET MVC • REST API • Entity Framework Core • LINQ • SQL Server • SignalR
-
-</p>
-
-<br>
-
-<h3 align="center">🏛 Software Architecture</h3>
-
-<p align="center">
-
-Clean Architecture • SOLID Principles • Design Patterns • Repository Pattern • Dependency Injection
-
-</p>
-
-<br>
-
-<h3 align="center">🔐 Authentication & Security</h3>
-
-<p align="center">
-
-JWT Authentication • Authorization • Refresh Token
-
-</p>
-
-<br>
-
-<h3 align="center">⚡ Performance & Optimization</h3>
-
-<p align="center">
-
-Pagination • Filtering • Search • Response Wrapper • Logging • Monitoring • Upload Image • Redis Caching
-
-</p>
 
 <br>
 
@@ -133,56 +108,40 @@ Pagination • Filtering • Search • Response Wrapper • Logging • Monitor
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,redis"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 
 </div>
 
-<p align="center">
-
-SQL Server • Entity Framework Core • LINQ • Redis
-
-</p>
-
 <br>
 
-<h3 align="center">☁ Cloud & DevOps</h3>
+<h3 align="center">🏛 Architecture</h3>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=azure,docker"/>
+<img src="https://img.shields.io/badge/Clean_Architecture-0A192F?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SOLID_Principles-00599C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Design_Patterns-FF9800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Repository_Pattern-512BD4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Dependency_Injection-3F51B5?style=for-the-badge"/>
 
 </div>
 
-<p align="center">
-
-Microsoft Azure • Docker
-
-</p>
-
 <br>
 
-<h3 align="center">🧪 Libraries & Testing</h3>
-
-<p align="center">
-
-AutoMapper • Unit Testing
-
-</p>
-
-<br>
-
-<h3 align="center">🛠 Tools</h3>
+<h3 align="center">🔐 Authentication & Security</h3>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
+
+<img src="https://img.shields.io/badge/Authorization-2E8B57?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Refresh_Token-1976D2?style=for-the-badge"/>
 
 </div>
-
-<p align="center">
-
-Git • GitHub • Visual Studio • VS Code • Postman • Swagger
-
-</p>
-
-<hr>
