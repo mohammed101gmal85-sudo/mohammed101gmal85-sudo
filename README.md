@@ -145,3 +145,161 @@ I enjoy writing clean code, solving real-world problems and continuously learnin
 <img src="https://img.shields.io/badge/Refresh_Token-1976D2?style=for-the-badge"/>
 
 </div>
+<!--==================== LIBRARIES & TESTING ====================-->
+
+<h3 align="center">📚 Libraries & Testing</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AutoMapper-DD0031?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Unit_Testing-25A162?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+<!--==================== PERFORMANCE ====================-->
+
+<h3 align="center">⚡ Performance & Optimization</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Pagination-0D6EFD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Filtering-198754?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Search-6F42C1?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Response_Wrapper-20C997?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Logging-FF9800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Monitoring-E91E63?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Upload_Image-795548?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Caching-607D8B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Redis_Cache-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
+</div>
+
+<br>
+
+<!--==================== CLOUD ====================-->
+
+<h3 align="center">☁️ Cloud</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+</div>
+
+<br>
+
+<!--==================== DEVOPS ====================-->
+
+<h3 align="center">🐳 DevOps</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+</div>
+
+<br>
+
+<!--==================== TOOLS ====================-->
+
+<h3 align="center">🛠 Tools</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+
+</div>
+
+<br>
+
+<!--==================== CURRENT FOCUS ====================-->
+
+<h3 align="center">🎯 Current Focus</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Scalable_APIs-512BD4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Clean_Code-0A192F?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Performance-198754?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Security-DC3545?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloud_Ready-0078D4?style=for-the-badge"/>
+
+</div>
+
+<hr>
+<!--==================== GITHUB ANALYTICS ====================-->
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<br>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammed101gmal85-sudo&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed101gmal85-sudo&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</div>
+
+<br>
+
+<!--==================== GITHUB STREAK ====================-->
+
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=mohammed101gmal85-sudo&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</div>
+
+<br>
+
+<!--==================== ACTIVITY GRAPH ====================-->
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohammed101gmal85-sudo&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+<br>
+
+<!--==================== GITHUB TROPHY ====================-->
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohammed101gmal85-sudo&theme=tokyonight&column=4&margin-w=12&margin-h=12&no-frame=true"/>
+
+</div>
+
+<hr>
